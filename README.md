@@ -32,5 +32,27 @@ The website was designed to solve key pain points for students interested in the
 
 ## 🧠 Technologies Used
 
-- **H**
+- **HTML5 / CSS3** for structure and styling
+- **JavaScript** for interactivity
+- **PHP** for backend logic (login, form handling)
+- **MySQL** for database storage
+- **VS Code** for development environment
+
+---
+
+## 📁 Database Tables
+
+- `User` – Stores student login info
+- `Contactus` – Stores contact form messages
+- `Class_Schedule` – Manages timing and types of gym classes
+- `Student_Plans` – Stores student subscription and plan details
+
+---
+
+## ⚙️ How to Run the Project
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/NORADT/TUgym.git
 
