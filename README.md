@@ -17,20 +17,20 @@ The website was designed to solve key pain points for students interested in the
 
 ---
 
-## 🌟 Key Features
+## Key Features
 
-- 🏠 **Homepage** with navigation menu and links to other sections.
-- 🧍 **Student Login & Profile** system with personalized welcome messages.
-- 🏋️ **Information pages** for sports types, equipment, gym classes, and subscription pricing.
-- 🥗 **Diet suggestions** section.
-- 📅 **Class schedules** with clear structure.
-- 📬 **Contact Us** form with direct email integration.
-- 📖 **Blog page** for updates or content sharing.
-- 💡 Designed with internal/external links, form validation, and interactive components.
+- **Homepage** with navigation menu and links to other sections.
+- **Student Login & Profile** system with personalized welcome messages.
+- **Information pages** for sports types, equipment, gym classes, and subscription pricing.
+- **Diet suggestions** section.
+- **Class schedules** with clear structure.
+- **Contact Us** form with direct email integration.
+- **Blog page** for updates or content sharing.
+- Designed with internal/external links, form validation, and interactive components.
 
 ---
 
-## 🧠 Technologies Used
+## Technologies Used
 
 - **HTML5 / CSS3** for structure and styling
 - **JavaScript** for interactivity
@@ -40,7 +40,7 @@ The website was designed to solve key pain points for students interested in the
 
 ---
 
-## 📁 Database Tables
+## Database Tables
 
 - `User` – Stores student login info
 - `Contactus` – Stores contact form messages
